@@ -1,11 +1,10 @@
 import { create } from "zustand";
 import { scenesList } from "../scene-images";
-import { StaticImageData } from "next/image";
 
 type HookProps = {
   currentScene: string;
-  currentSceneImage: StaticImageData;
-  setCurrentSceneImage: (newImage: StaticImageData) => void;
+  currentSceneImage: string;
+  setCurrentSceneImage: (newImage: string) => void;
   setCurrentScene: (newScene: string) => void;
   isOpen: boolean;
   onOpenChange: (bool: boolean) => void;
