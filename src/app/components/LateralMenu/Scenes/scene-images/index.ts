@@ -1,5 +1,4 @@
 // images
-import { StaticImageData } from "next/image";
 import InsideSun from "./inside_sun.png";
 import OutsideSun from "./outside_sun.png";
 import OutsideDay from "./Outside_Day.png";
@@ -7,7 +6,7 @@ import InsideRain from "./inside_rain.png";
 
 export const scenesList: {
   id: string;
-  SceneImage: StaticImageData;
+  SceneImage: string;
   Scene: string;
 }[] = [
   {
