@@ -1,0 +1,26 @@
+export { default as WithYou } from "./with-you.mp3";
+export { default as CO2Prateek } from "./CO2-Prateek.mp3";
+
+export { default as Aashiq_Tera } from "./Aashiq_Tera.mp3";
+export { default as Aditya_Rikhari_NASAMAJH } from "./Aditya_Rikhari_NASAMAJH.mp3";
+export { default as Aditya_Rikhari_Tinka } from "./Aditya_Rikhari_Tinka.mp3";
+export { default as Admirin_You_Karn } from "./Admirin_You_Karn.mp3";
+export { default as AP_Summer_High } from "./AP_Summer_High.mp3";
+export { default as DieForYou_Weeknd } from "./DieForYou_Weeknd.mp3";
+export { default as DIL_NU } from "./DIL_NU.mp3";
+export { default as Fikkar_Koi_Na } from "./Fikkar_Koi_Na.mp3";
+export { default as Haryana_Hood } from "./Haryana_Hood.mp3";
+export { default as ISHQ_HAI_Aditya_Rikhari } from "./ISHQ_HAI_Aditya_Rikhari.mp3";
+export { default as Janiye_Vishal } from "./Janiye_Vishal.mp3";
+export { default as LOVE_IS_GONE } from "./LOVE_IS_GONE.mp3";
+export { default as Mere_Nishan } from "./Mere_Nishan.mp3";
+export { default as Mi_Amor } from "./Mi_Amor.mp3";
+export { default as OneLove_Shubh } from "./OneLove_Shubh.mp3";
+export { default as Players } from "./Players.mp3";
+export { default as Sajna_Ve } from "./Sajna_Ve.mp3";
+export { default as Startboy_Weeknd } from "./Startboy_Weeknd.mp3";
+export { default as Sweet_Talks } from "./Sweet_Talks.mp3";
+export { default as Tere_Vaaste } from "./Tere_Vaaste.mp3";
+export { default as The_Book_Of_You_I } from "./The_Book_Of_You_&_I.mp3";
+export { default as WHY } from "./WHY.mp3";
+export { default as ZAYN_Rainberry } from "./ZAYN_Rainberry.mp3";

@@ -1,0 +1,61 @@
+// **** Lofi ****
+import { Lofi1 } from "./lofi/lofi";
+
+// **** Music ****
+import {
+  WithYou,
+  CO2Prateek,
+  AP_Summer_High,
+  Aashiq_Tera,
+  Aditya_Rikhari_NASAMAJH,
+  Aditya_Rikhari_Tinka,
+  Admirin_You_Karn,
+  DIL_NU,
+  DieForYou_Weeknd,
+  Fikkar_Koi_Na,
+  Haryana_Hood,
+  ISHQ_HAI_Aditya_Rikhari,
+  Janiye_Vishal,
+  LOVE_IS_GONE,
+  Mere_Nishan,
+  Mi_Amor,
+  OneLove_Shubh,
+  Players,
+  Sajna_Ve,
+  Startboy_Weeknd,
+  Sweet_Talks,
+  Tere_Vaaste,
+  The_Book_Of_You_I,
+  WHY,
+  ZAYN_Rainberry,
+} from "./music/music";
+
+export const MusicList = [
+  WithYou,
+  CO2Prateek,
+  AP_Summer_High,
+  Aashiq_Tera,
+  Aditya_Rikhari_NASAMAJH,
+  Aditya_Rikhari_Tinka,
+  Admirin_You_Karn,
+  DIL_NU,
+  DieForYou_Weeknd,
+  Fikkar_Koi_Na,
+  Haryana_Hood,
+  ISHQ_HAI_Aditya_Rikhari,
+  Janiye_Vishal,
+  LOVE_IS_GONE,
+  Mere_Nishan,
+  Mi_Amor,
+  OneLove_Shubh,
+  Players,
+  Sajna_Ve,
+  Startboy_Weeknd,
+  Sweet_Talks,
+  Tere_Vaaste,
+  The_Book_Of_You_I,
+  WHY,
+  ZAYN_Rainberry,
+];
+
+export const LofiList = [Lofi1];
